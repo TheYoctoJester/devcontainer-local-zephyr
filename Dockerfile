@@ -1,5 +1,4 @@
-  
-FROM theyoctojester/devcontainer-base-zephyr:main
+FROM theyoctojester/devcontainer-base-zephyr:jammy
 
 ### Local user ###
 # '-l': see https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#user
